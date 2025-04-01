@@ -25,13 +25,17 @@ To play this game on your local machine, follow these steps:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Amandeep1912/Ping-Pong-Game-Using-Pygame-library-of-Python
+   git clone https://github.com/Amandeep1912/Ping-Pong-Game-Using-Pygame-library-of-Python.git
    ```
-2. Install dependencies:
+2. Navigate to the project directory:
+   ```sh
+   cd Ping-Pong-Game-Using-Pygame-library-of-Python
+   ```
+3. Install dependencies:
    ```sh
    pip install pygame
    ```
-3. Run the game:
+4. Run the game:
    ```sh
    python pingpong.py
    ```
