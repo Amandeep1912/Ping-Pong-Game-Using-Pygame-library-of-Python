@@ -33,7 +33,7 @@ To play this game on your local machine, follow these steps:
    ```
 3. Run the game:
    ```sh
-   python ping_pong.py
+   python pingpong.py
    ```
 
 ## How to Play
